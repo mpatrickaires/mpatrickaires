@@ -26,4 +26,4 @@
   
 <br>
 
-Além disso, tenho o conhecimento das boas práticas do uso do **Clean Code** e dos princípios do **SOLID**, tudo visando um código legível! 
+Além disso, tenho o conhecimento das boas práticas do uso do **Clean Code** e dos princípios do **SOLID**, tudo visando um código limpo e legível! :broom: 
