@@ -1,6 +1,6 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá! Bem-vindo(a) ao meu GitHub.
 
-**Prazer, sou Matheus Patrick, um desenvolvedor em ascensão que está sempre em busca de desafios!**
+👋 **Prazer, sou Matheus Patrick, um desenvolvedor em ascensão que está sempre em busca de desafios!**
 - 💻 Atualmente cursando Sistemas de Informação
 - 👨‍💻 Procurando aprendizado constante
 
