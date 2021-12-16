@@ -6,14 +6,14 @@
 
 ##
 
-### Quer entrar em contato comigo? Essas são as minhas redes sociais
+### Quer entrar em contato comigo? Essas são as minhas redes sociais:
   
 <a href="https://www.linkedin.com/in/mpatrickaires/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:mpatrickaires@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ##
 
-### Veja algumas tecnologias que eu tenho conhecimento
+### Veja algumas tecnologias que eu tenho conhecimento:
 <div>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
