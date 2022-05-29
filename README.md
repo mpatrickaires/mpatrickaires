@@ -1,12 +1,14 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá! Bem-vindo(a) ao meu GitHub.
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! Welcome to my GitHub.
 
-👋 **Prazer, sou Matheus Patrick, um desenvolvedor em ascensão que está sempre em busca de desafios!**
-- 💻 Atualmente cursando **Sistemas de Informação** e atuando como **Programador Júnior** na empresa **Tron Informática**, em Goiânia
-- 👨‍💻 Procurando aprendizado constante
+👋 **Nice to meet you, I am Matheus Patrick, an ascending developer who is always seeking for new learnings and challenges!**
+- 📚 Currently majoring in Information Systems. 
+- 👨‍💻 Working as developer at Tron Informática. 
+- 🏡 Living in Goiânia, GO - Brazil.
+- 💻 Seeking to increase my expertise.
 
 ##
 
-### :speech_balloon: Quer entrar em contato comigo? Essas são as minhas redes sociais:
+### :speech_balloon: If you want to get in touch with me, check out my social medias:
   
 <div>
   <a href="https://www.linkedin.com/in/mpatrickaires/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -15,7 +17,7 @@
 
 ##
 
-### :bulb: Veja algumas tecnologias que eu tenho conhecimento:
+### 💡 These are some technologies that I have knowledge of: 
 <div>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
@@ -34,4 +36,4 @@
   
 <br>
 
-Além disso, tenho o conhecimento das boas práticas do uso do **Clean Code** e dos princípios do **SOLID**, tudo visando um código limpo e legível! :broom: 
+I also have knowledge in good programming practices, such as the use of **Clean Code**, the principles of **SOLID** and how to apply some **Design Patterns**. All that aiming for a clean and legible code! 🧹
