@@ -36,4 +36,4 @@
   
 <br>
 
-I also have knowledge in good programming practices, such as the use of **Clean Code**, the principles of **SOLID** and how to apply some **Design Patterns**. All that aiming for a clean and legible code! 🧹
+I also have knowledge in good programming practices, such as the use of **Clean Code**, the principles of **SOLID** and how to apply **Design Patterns**. All that aiming for a clean and legible code! 🧹
