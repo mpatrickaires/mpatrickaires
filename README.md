@@ -35,4 +35,8 @@
   
 <br>
 
-I also have knowledge in good programming practices, such as the use of **Clean Code**, the principles of **SOLID** and how to apply **Design Patterns**. All that aiming for a clean and legible code! 🧹
+### 📖 These are some important concepts and patterns that I know:
+#### :heavy_check_mark: Clean Code
+#### :heavy_check_mark: SOLID
+#### :heavy_check_mark: Design Patterns
+#### :heavy_check_mark: Clean Architecture
