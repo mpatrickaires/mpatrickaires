@@ -7,7 +7,7 @@
 
 ##
 
-### :speech_balloon: If you want to get in touch with me, check out my social medias:
+### 💬 If you want to get in touch with me, check out my social medias:
   
 <div>
   <a href="https://www.linkedin.com/in/mpatrickaires/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -31,10 +31,10 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <div>
   
-<br>
+##
 
 ### 📖 These are some important concepts and patterns that I know:
-#### :heavy_check_mark: Clean Code
-#### :heavy_check_mark: SOLID
-#### :heavy_check_mark: Design Patterns
-#### :heavy_check_mark: Clean Architecture
+#### ✔ Clean Code
+#### ✔ SOLID
+#### ✔ Design Patterns
+#### ✔ Clean Architecture
