@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! Welcome to my GitHub.
+# Hello! Welcome to my GitHub.
 
 👋 **Nice to meet you, my name is Matheus Patrick, an ascending developer who is always seeking for new learnings and challenges!**
 - 📚 Currently majoring in Information Systems.
