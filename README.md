@@ -1,13 +1,13 @@
 # Hello! Welcome to my GitHub.
 
-👋 **Nice to meet you, my name is Matheus Patrick, an ascending developer who is always seeking for new learnings and challenges!**
-- 📚 Currently majoring in Information Systems.
+👋 **Nice to meet you, my name is Matheus Patrick, a developer who is always seeking for new learnings and challenges!**
+- 📚 Bachelor's degree in Information Systems.
 - 🏡 Living in Goiânia, GO - Brazil.
 - 💻 Seeking to increase my expertise.
 
 ##
 
-### 💬 If you want to get in touch with me, check out my social medias:
+### 💬 Want to talk to me or see what I'm up to? Check out my social medias:
   
 <div>
   <a href="https://www.linkedin.com/in/mpatrickaires/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
